@@ -1,2 +1,2 @@
 # My_Portfolio
-Personal Portfolio
+ Developing a Responsive Personal Portfolio.
