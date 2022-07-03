@@ -620,9 +620,13 @@ footer{
     .text-img-1 img{
         display: none;
     }
-
-    .row{
+    
+    .work-row{
         display: block;
+        margin-left: 15%;
+    }
+    
+    .row{
         margin-top: 13%;
     }
 
