@@ -637,25 +637,41 @@ footer{
     .skill{
         margin-left: 9%;
     }
+    
+    .front-end-heading{
+        padding-top: 5%;
+    }
 
+    .back-end-heading{
+        padding-top: 5%;
+    }
+
+    .data-science-heading{
+        padding-top: 5%;
+    }
+
+    .Frameworks-Libraries-heading{
+        padding-top: 5%;
+    }
+    
     .skill-box .front-end{
-        width: 300px;
+        width: 320px;
         height: 350px;
         
     }
     
     .skill-box .back-end{
-        width: 300px;
+        width: 320px;
         height: 350px;
     }
     
     .skill-box .data-science{
-        width: 300px;
+        width: 320px;
         height: 350px;
     }
     
     .skill-box .Frameworks-Libraries{
-        width: 300px;
+        width: 320px;
         height: 350px;
     }
 
