@@ -18,6 +18,10 @@ body{
     p{
         font-size: 25px;
     }
+
+    .container{
+        margin-top: 5%;
+    }
 }
 
 @media only screen and (max-width: 1284px){
@@ -27,5 +31,9 @@ body{
 
     p{
         font-size: 25px;
+    }
+
+    .container{
+        margin-top: 5%;
     }
 }
