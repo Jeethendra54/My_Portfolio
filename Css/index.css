@@ -616,9 +616,9 @@ footer{
         font-size: 20px;
         display: inline;
     }
-
-    .text-img-1 img{
-        display: none;
+    
+    .about-info-1 img{
+       display: none;
     }
     
     .work-row{
