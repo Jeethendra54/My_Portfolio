@@ -268,7 +268,7 @@ li{
 
 .input-box button{
     background-color: #ff365a;
-    margin-top : 5px;
+    margin-top: 5px;
     border: none;
     color: white;
     border-radius: 5px;
@@ -291,7 +291,6 @@ li{
 .text-img-1{
     display: flex;
 }
-
 
 .skills-section{
     color: white;
@@ -433,7 +432,6 @@ li{
 }
 
 
-
 footer{
     position: absolute; 
     height: auto;
@@ -457,7 +455,6 @@ footer{
     font-weight: 400;
     text-transform: capitalize;
     line-height: 3rem;
-
 }
 
 .footer-content p{
@@ -577,8 +574,10 @@ footer{
     text-decoration: none;
 }
 
+
 @media only screen and (max-width: 1080px){
- .header{
+
+    .header{
         width: 100%;
         min-height: 100vh;
         background-image: linear-gradient(rgba(4,9,12,0.7),rgba(4,9,30,0.7)) ,url('../Images/Background/back.jpeg');
@@ -616,16 +615,16 @@ footer{
         font-size: 20px;
         display: inline;
     }
-    
+
     .about-info-1 img{
        display: none;
     }
-    
+
     .work-row{
         display: block;
         margin-left: 15%;
     }
-    
+
     .row{
         margin-top: 13%;
     }
@@ -684,9 +683,9 @@ footer{
 
     .footer-content p{
         font-size: 16px;
-    }
+    }   
 }
 
 @media only screen and (max-width: 1284px){
-    
+  
 }
