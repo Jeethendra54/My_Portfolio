@@ -718,6 +718,9 @@ footer{
     .input-box textarea{
         width: 50%;
     }
+    
+    .footer{
+        background-color: transparent; 
 
     .footer-content{
         font-size: 1.2rem;
