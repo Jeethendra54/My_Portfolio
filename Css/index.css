@@ -639,6 +639,12 @@ footer{
     .about-info-1 img{
        display: none;
     }
+    
+    .arrow-icon a{
+        background-color: #ff365a;
+        padding: 3%;
+        bottom: 2%;
+    }
 
     .work-row{
         display: block;
