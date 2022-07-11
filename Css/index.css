@@ -100,6 +100,19 @@ li{
     padding: 5%;
 }
 
+.arrow-icon a{
+    color: white;
+    border: 1px solid;
+    border: none;
+    background-color: #ff365a;
+    padding: 1%;
+    border-radius: 5px;
+    margin-left: 95%;
+    position: fixed;
+    bottom: 5%;
+    right: 2%;
+}
+
 .Work{
     background-color:black;
     margin-bottom: 5%;
